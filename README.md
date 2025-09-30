@@ -46,3 +46,7 @@ Optimal clusters: 5 (Elbow method)
 Categories: Negligible, Minor, Moderate, High, Severe Damage
 
 Silhouette Score: ~0.69 (good separation)
+
+<img width="899" height="337" alt="스크린샷 2025-09-29 223543" src="https://github.com/user-attachments/assets/209da55c-f90d-4d15-b723-6b9176acd68f" />
+
+<img width="658" height="491" alt="스크린샷 2025-09-29 223601" src="https://github.com/user-attachments/assets/28840e55-f025-40df-a31f-9ad2e6690030" />
